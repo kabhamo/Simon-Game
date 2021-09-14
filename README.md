@@ -8,4 +8,4 @@ Next, the game shows the next colour (red), the user has to remember the sequenc
 If the user messes up the sequence, then the game ends.
 
 Output - 
-![](Simon Game HomeScreen/Simon Game HomeScreen.png)
+![](../Simon Game HomeScreen.png)
